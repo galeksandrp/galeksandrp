@@ -9,3 +9,4 @@
 #### PC
 
 - https://github.com/galeksandrp/Jackett/tree/no-filters-ci
+- https://github.com/galeksandrp/mpc-be/tree/ci
