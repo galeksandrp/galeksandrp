@@ -3,7 +3,7 @@
 #### OS
 
 - https://github.com/galeksandrp-ss2/android/tree/lineage-17.1
-- https://github.com/galeksandrp/openwrt
+- https://github.com/galeksandrp/openwrt/tree/IPQ807x-5.10-backports
 
 #### Android
 
