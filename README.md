@@ -1,5 +1,10 @@
 ### Bookmarks
 
+#### OS
+
+- https://github.com/galeksandrp-ss2/android/tree/lineage-17.1
+- https://github.com/galeksandrp/openwrt
+
 #### Android
 
 - https://github.com/galeksandrp/AdAway/tree/ci
