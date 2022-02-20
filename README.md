@@ -3,7 +3,8 @@
 #### OS
 
 - https://github.com/galeksandrp-ss2/android/tree/lineage-17.1
-- https://github.com/galeksandrp/openwrt/tree/IPQ807x-5.10-backports
+- https://github.com/galeksandrp/openwrt/tree/AX3600-5.10-restart-ci
+- https://github.com/galeksandrp/openwrt/tree/ipq807x-5.15
 
 #### Android
 
