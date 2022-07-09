@@ -17,4 +17,4 @@
 - https://github.com/galeksandrp/Jackett/tree/no-filters-ci
 - https://github.com/galeksandrp/mpc-be/tree/ci
 - https://github.com/galeksandrp/MagiskOnWSA
-- https://github.com/ME3Tweaks/ME3TweaksModManager
+- https://github.com/ME3Tweaks/ME3TweaksModManager/tree/ci
