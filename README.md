@@ -16,8 +16,6 @@
 
 [Jackett `no-filters-ci`] | [mpc-be `ci`] | [MagiskOnWSALocal `container`] | [ME3TweaksModManager `ci`]
 
---- 
-
 [2833 `epf-utils`]: https://github.com/galeksandrp/2833/tree/epf-utils
 [phpshop `html`]: https://github.com/galeksandrp/phpshop/tree/html
 [bitrixdock `2833ru`]: https://github.com/galeksandrp/bitrixdock/tree/2833ru
