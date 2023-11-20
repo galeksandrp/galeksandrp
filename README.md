@@ -18,12 +18,13 @@
 
 #### Gaming
 
-[witcher3mods] | [Vendor and UI Improvements] | [InventoryMaid] | [More Inventory Filters]
+[witcher3mods] | [Vendor and UI Improvements] | [InventoryMaid] | [More Inventory Filters] | [hogwartslegacy-nobroomflightwindeffects]
 
 [witcher3mods]: https://github.com/galeksandrp/witcher3mods
 [Vendor and UI Improvements]: https://github.com/galeksandrp/cp77-vendor-ui-mod/branches
 [InventoryMaid]: https://github.com/galeksandrp/CP77_InventoryMaid/branches
 [More Inventory Filters]: https://github.com/galeksandrp/cp77-more-inventory-filters/branches
+[hogwartslegacy-nobroomflightwindeffects]: https://github.com/galeksandrp/hogwartslegacy-nobroomflightwindeffects
 
 [2833 `epf-utils`]: https://github.com/galeksandrp/2833/tree/epf-utils
 [phpshop `html`]: https://github.com/galeksandrp/phpshop/tree/html
