@@ -18,13 +18,14 @@
 
 #### Gaming
 
-[witcher3mods] | [Vendor and UI Improvements] | [InventoryMaid] | [More Inventory Filters] | [Disable broom flight wind effects]
+[witcher3mods] | [Vendor and UI Improvements] | [InventoryMaid] | [More Inventory Filters] | [Disable broom flight wind effects] | [Teleport Hotkeys (RE-UE4SS)]
 
 [witcher3mods]: https://github.com/galeksandrp/witcher3mods
 [Vendor and UI Improvements]: https://github.com/galeksandrp/cp77-vendor-ui-mod/branches
 [InventoryMaid]: https://github.com/galeksandrp/CP77_InventoryMaid/branches
 [More Inventory Filters]: https://github.com/galeksandrp/cp77-more-inventory-filters/branches
 [Disable broom flight wind effects]: https://github.com/galeksandrp/hogwartslegacy-nobroomflightwindeffects
+[Teleport Hotkeys (RE-UE4SS)]: https://github.com/galeksandrp/hogwartslegacy-teleporthotkeys
 
 [2833 `epf-utils`]: https://github.com/galeksandrp/2833/tree/epf-utils
 [phpshop `html`]: https://github.com/galeksandrp/phpshop/tree/html
