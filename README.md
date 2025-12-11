@@ -1,5 +1,9 @@
 ### Bookmarks
 
+#### Github Pages
+
+https://galeksandrp.github.io/swagger-github-pages/
+
 #### Internal
 
 [2833 `epf-utils`] | [phpshop `html`] | [bitrixdock `2833ru`] | https://github.com/galeksandrp/archive
